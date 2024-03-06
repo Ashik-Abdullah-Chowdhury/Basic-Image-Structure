@@ -1,13 +1,12 @@
-# Basic-GEE-Practice
-# This repository shows some results of my learning about "Basic Structure of Image"
+# This repository shows what i learned about "Basic Structure of Image"
 On this topic, i learned about:
 
 
 *   How we see any object?
 *   Light absorbtion and reflection
 *   Light absorbtion and reflection by plant
-*   Remote sensing
-*   Passive remote sensing
+*   What is Remote sensing?
+*   What is Passive remote sensing?
 *   How computer see an image?
 *   Formation of a black and white image
 [The link to an assignment on Formation of a black and white image](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice/blob/main/gray-image.png)
