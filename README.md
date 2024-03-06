@@ -1,4 +1,4 @@
-# This repository shows what i learned about "Basic Structure of Image"
+# This repository shows some results of what i learned about "Basic Structure of Image"
 On this topic, i learned about:
 
 
