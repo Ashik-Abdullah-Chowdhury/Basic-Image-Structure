@@ -2,11 +2,6 @@
 On this topic, i learned about:
 
 
-*   How we see any object?
-*   Light absorbtion and reflection
-*   Light absorbtion and reflection by plant
-*   What is Remote sensing?
-*   What is Passive remote sensing?
 *   How computer see an image?
 *   Formation of a black and white image
 [The link to an assignment on Formation of a black and white image](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice/blob/main/gray-image.png)
